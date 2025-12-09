@@ -7,4 +7,6 @@ export default defineConfig({
     layout: "constrained",
     responsiveStyles: true,
   },
+  site: 'https://abhyka.github.io',
+  base: '/strapstro-devine'
 });
